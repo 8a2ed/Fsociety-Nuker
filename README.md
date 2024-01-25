@@ -28,7 +28,7 @@ Open `installPackages.bat` file to install all packages then go to the [config f
 }
 ```
 
-then the [excuter](startNuker.bat) open and you are ready to go!
+then open the [excuter](startNuker.bat) and you are ready to go and NUKE!!
 
 # Previews:
 
