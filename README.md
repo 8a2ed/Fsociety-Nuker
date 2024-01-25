@@ -34,11 +34,12 @@ then the [excuter](startNuker.bat) open and you are ready to go!
 
 #### The Configuration Method:
 
-![Configuration Method](./previews/configuration-method.png)
+![Configuration Method](https://github.com/8a2ed/Fsociety-Nuker/blob/main/previews/configuration%20method.png?raw=true)
 
 #### The Tool:
 
-![The The](./previews/the-tool.png)
+![The Tool](https://github.com/8a2ed/Fsociety-Nuker/blob/main/previews/the%20tool.png?raw=true)
+
 
 ## Disclaimer
 
