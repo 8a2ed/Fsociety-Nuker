@@ -1,0 +1,25 @@
+{
+  "name": "fsociety-nuker",
+  "version": "1.0.0",
+  "description": "The new Fsociety Nuker is here",
+  "main": "src/nuker.js",
+  "scripts": {
+    "test": "node src/nuker.js",
+    "start": "node src/nuker.js"
+  },
+  "keywords": [],
+  "author": "8a2ed",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table3": "^0.9.0",
+    "axios": "^1.6.5",
+    "chalk": "^4.1.2",
+    "chalk-animation": "^2.0.3",
+    "discord.js": "^14.14.1",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.12",
+    "json-bigint": "^1.0.0",
+    "prompt-sync": "^4.2.0",
+    "terminal-kit": "^3.0.1"
+  }
+}
